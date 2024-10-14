@@ -1,4 +1,4 @@
-# ENITS Data Mining 23
+# ENITS Data Mining 24
 Course Materials of the Data Mining for Security Applications Class
 
 ## NOTES
