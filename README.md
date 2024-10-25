@@ -42,3 +42,14 @@ Course Materials of the Data Mining for Security Applications Class
 ### Assignements
 * [Assignment 3.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_3/Assignment_3.1_Numpy.ipynb) 
 * [Assignment 3.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_3/Assignment_3.2_Matplotlib.ipynb) 
+
+## Week 4
+
+### Lecture
+* [Scikit Learn](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_4/Lecture_Scikit_Learn.ipynb)
+
+### Lab
+* [Clustering](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_4/Lab_Clustering.ipynb)
+
+### Assignements
+* [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_4/Assignment_4.1_Clustering.ipynb) 
