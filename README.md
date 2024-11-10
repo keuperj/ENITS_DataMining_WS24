@@ -52,7 +52,7 @@ Course Materials of the Data Mining for Security Applications Class
 * [Clustering](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_4/Lab_Clustering.ipynb)
 
 ### Assignements
-* [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_4/Assignment_4.1_Clustering.ipynb) 
+* [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_4/Assignment_4.1_Clustering.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_4/Assignment_4.1_Solution.ipynb)
 
 ## Week 5
 
@@ -60,4 +60,12 @@ Course Materials of the Data Mining for Security Applications Class
 * [Statistics II](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_5/05_Statistics_Part_II.ipynb)
 
 ### Lab + Assignment
-* [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb) 
+* [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb)
+
+## Week 6
+### Lecture
+* [Random Forest Demo](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_6/RF_demo.ipynb)
+ 
+### Lab
+* [Lab exercise](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_6/Lab_FraudDetection_Part_II.ipynb)
+
