@@ -57,10 +57,10 @@ Course Materials of the Data Mining for Security Applications Class
 ## Week 5
 
 ### Lecture
-* [Statistics II](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_5/05_Statistics_Part_II.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_5/LabAndAssignment_FraudDetection_Solution.ipynb)
+* [Statistics II](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_5/05_Statistics_Part_II.ipynb) 
 
 ### Lab + Assignment
-* [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb)
+* [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb)-> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_5/LabAndAssignment_FraudDetection_Solution.ipynb)
 
 ## Week 6
 ### Lecture
