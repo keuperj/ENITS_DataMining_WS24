@@ -80,13 +80,13 @@ Course Materials of the Data Mining for Security Applications Class
 ## Week 8
 ### Lab
 * [NN Demo](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.16265&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
-* [Lab exercise](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS23/blob/main/Week_8/Intro_to_Keras.ipynb)
+* [Lab exercise](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_8/Intro_to_Keras.ipynb)
 ### Assignment
-* [Assignment 8.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS23/blob/main/Week_8/Assignment_fraud_detection.ipynb)
+* [Assignment 8.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_8/Assignment_fraud_detection.ipynb)
 
 ## Week 9
 ### Assignment
-* [Assignment 9.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS23/blob/main/Week_9/Assignment_CNNs.ipynb)
+* [Assignment 9.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_9/Assignment_CNNs.ipynb)
 
 
 
