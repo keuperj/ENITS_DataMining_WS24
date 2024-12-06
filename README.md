@@ -88,5 +88,12 @@ Course Materials of the Data Mining for Security Applications Class
 ### Assignment
 * [Assignment 9.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_9/Assignment_CNNs.ipynb)
 
+## Week 10
+### Lab
+* [Text embedding Visualization](https://projector.tensorflow.org/)
+*  [GenSim Library Docs](https://radimrehurek.com/gensim/auto_examples/index.html#documentation)
+*  [GenSIM Doc2Vec Example](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_10/gensim_doc2vec.ipynb)
 
+### Assignment
+*  [Assignment 10.1 ](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_10/Assignment_10.ipynb)
 
