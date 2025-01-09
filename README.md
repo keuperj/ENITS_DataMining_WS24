@@ -97,3 +97,23 @@ Course Materials of the Data Mining for Security Applications Class
 ### Assignment
 *  [Assignment 10.1 ](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_10/Assignment_10.ipynb)
 
+## Week 11 - Xmas
+
+## Week 12
+### Lab
+
+#### Keras API
+* [Attention Layer](https://keras.io/2.15/api/layers/attention_layers/attention/)
+* [Multiheaded Attention Layer](https://keras.io/api/layers/attention_layers/multi_head_attention/)
+* [Transformer Encoder](https://keras.io/api/keras_nlp/modeling_layers/transformer_encoder/)
+
+#### Hugging Face pre-trained models
+* [Hugging Face Keras Models](https://huggingface.co/models?library=keras)
+  
+#### Examples
+* [Text classification](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_12/text_classification_with_transformer.ipynb)
+* [Vision Transformer](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_12/image_classification_with_vision_transformer.ipynb)
+* [Text generation with GPT-2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_12/gpt2_text_generation_with_kerasnlp.ipynb)
+
+### Assignment
+* [Aufgabe 12](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS24/blob/main/Week_12/Assignment_12.ipynb)
